@@ -9,7 +9,7 @@ window.resizable(0, 0)
 window.title("Calcualtor")
 #function
 def about():
-    messagebox.showinfo('About',"\n \n \n   Made by Dinesh Kumar   \n instagram id : @thedineshyadav\n \n")
+    messagebox.showinfo('About',"\n \n \n   Made by Deepak verma   \n instagram id : @d_verma32\n \n")
 
 def clickButton(item):
     global expression
