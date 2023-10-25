@@ -96,4 +96,4 @@ For developing a simple GUI calculator in python you must have to prior knowledg
  
 <h1>Questions ?</h1>
 <p>Hit me on</p><br>
-<a href="https://instagram.com/thedineshyadav"><img src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" height="50" width="50"></a>
+<a href="https://instagram.com/d_verma32"><img src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" height="50" width="50"></a>
